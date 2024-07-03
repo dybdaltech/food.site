@@ -1,0 +1,42 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Food</title>
+        <link>http://localhost:1313/no/posts/</link>
+        <description>Recent content in Posts on Food</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>no</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Wed, 03 Jul 2024 14:42:33 +0200</lastBuildDate>
+        <atom:link href="http://localhost:1313/no/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Honning Marinader</title>
+            <link>http://localhost:1313/no/posts/2024/07/honning-marinader/</link>
+            <pubDate>Wed, 03 Jul 2024 14:42:33 +0200</pubDate>
+            
+            <guid>http://localhost:1313/no/posts/2024/07/honning-marinader/</guid>
+            <description>Honey Marinades recipes Samling av marinader laget med honning, målinger er gjort i norske enheter
+Honning-Hvitløk kyllingmarinade For 2-3 chicken breasts
+2 ss olivenolje 2 ss soyasaus 4 ss honning 2 hvitløksfedd 4 ss vann Honey Soy Salmon marinade Approximately 4 slices of Salmon
+2 ss soyasaus 2 ss honning 2 hvitløksfedd Litt (usikkert nøyaktig mål) ingefær, finhakket 1 ss olivenolje </description>
+            <content type="html"><![CDATA[<h2 id="honey-marinades-recipes">Honey Marinades recipes</h2>
+<p>Samling av marinader laget med honning, målinger er gjort i <a href="https://snl.no/m%C3%A5lenheter_for_matlaging">norske enheter</a></p>
+<h4 id="honning-hvitløk-kyllingmarinade">Honning-Hvitløk kyllingmarinade</h4>
+<p>For 2-3 chicken breasts</p>
+<pre tabindex="0"><code>2 ss olivenolje
+2 ss soyasaus
+4 ss honning
+2 hvitløksfedd
+4 ss vann
+</code></pre><h4 id="honey-soy-salmon-marinade">Honey Soy Salmon marinade</h4>
+<p>Approximately 4 slices of Salmon</p>
+<pre tabindex="0"><code>2 ss soyasaus
+2 ss honning
+2 hvitløksfedd
+Litt (usikkert nøyaktig mål) ingefær, finhakket
+1 ss olivenolje
+</code></pre>]]></content>
+        </item>
+        
+    </channel>
+</rss>

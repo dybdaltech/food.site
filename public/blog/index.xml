@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on Food</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Food</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>site@dybdaltech.net (Dybdaltech)</managingEditor>
+    <webMaster>site@dybdaltech.net (Dybdaltech)</webMaster>
+    <copyright>Dybdaltech (CC BY 4.0)</copyright>
+    <lastBuildDate>Wed, 03 Jul 2024 14:42:33 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Honey Marinades</title>
+      <link>http://localhost:1313/blog/honey-marinades/</link>
+      <pubDate>Wed, 03 Jul 2024 14:42:33 +0200</pubDate><author>site@dybdaltech.net (Dybdaltech)</author>
+      <guid>http://localhost:1313/blog/honey-marinades/</guid>
+      <description>Honey Marinades recipes Collection of marinades made with honey, measurements are made in Norwegian units&#xA;Honey-Garlic chicken marinade For 2-3 chicken breasts&#xA;2 ss oliven olje 2 ss soy saus 4 ss honning 2 stk hvitløk fedd 4 ss vannHoney Soy Salmon marinade Approximately 4 slices of Salmon&#xA;2 ss soya saus 2 ss honning 2 stk hvitløk fedd litt (usikker nøyaktig mål) ingefær, finkuttet 1 ss oliven olje</description>
+      <content:encoded><![CDATA[<h2 id="honey-marinades-recipes">Honey Marinades recipes</h2>
+<p>Collection of marinades made with honey, measurements are made in <a href="https://snl.no/m%C3%A5lenheter_for_matlaging">Norwegian units</a></p>
+<h4 id="honey-garlic-chicken-marinade">Honey-Garlic chicken marinade</h4>
+<p>For 2-3 chicken breasts</p>
+
+
+
+
+
+<pre tabindex="0"><code>2 ss oliven olje
+2 ss soy saus
+4 ss honning
+2 stk hvitløk fedd
+4 ss vann</code></pre><h4 id="honey-soy-salmon-marinade">Honey Soy Salmon marinade</h4>
+<p>Approximately 4 slices of Salmon</p>
+
+
+
+
+
+<pre tabindex="0"><code>2 ss soya saus
+2 ss honning
+2 stk hvitløk fedd
+litt (usikker nøyaktig mål) ingefær, finkuttet
+1 ss oliven olje</code></pre>]]></content:encoded>
+    </item>
+  </channel>
+</rss>
