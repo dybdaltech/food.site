@@ -1,5 +1,9 @@
 ---
-title: "Blog"
+title: "Posts"
 menu: "main"
-weight: 1
+weight: 2
 ---
+
+# Recipe posts
+
+Here's a collection of recipes

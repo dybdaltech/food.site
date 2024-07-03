@@ -1,8 +1,8 @@
-+++
-title = 'index'
-date = 2024-07-03T15:27:05+02:00
-draft = false
-+++
+---
+title: "Index"
+menu: "main"
+weight: 1
+---
 
 #### Corner of the internet
 Welcome too this little corner of the internet, a personal site I made to share my cooking ideas, recipes I've come across and experiences (although limited)!

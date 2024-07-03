@@ -1,16 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blog on Food</title>
+    <title>Posts on Food</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Blog on Food</description>
+    <description>Recent content in Posts on Food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <managingEditor>site@dybdaltech.net (Dybdaltech)</managingEditor>
     <webMaster>site@dybdaltech.net (Dybdaltech)</webMaster>
     <copyright>Dybdaltech (CC BY 4.0)</copyright>
-    <lastBuildDate>Wed, 03 Jul 2024 14:42:33 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 18:18:24 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Salmon-recipes</title>
+      <link>http://localhost:1313/posts/salmon-recipes/</link>
+      <pubDate>Wed, 03 Jul 2024 18:18:24 +0200</pubDate><author>site@dybdaltech.net (Dybdaltech)</author>
+      <guid>http://localhost:1313/posts/salmon-recipes/</guid>
+      <description>These are some of the recipes I use with Salmon. They are focused on being easy and fast to cook.&#xA;Salmon, Potatoes, Creme Fraiche and Broccoli This is a personal favorite that I use a lot, its fast and simple to cook&#xA;What you need&#xA;Salmon Sitronpepper Broccoli (frozen works) Creme Craiche Potatoes (Or rice) Soy Sauce How to Place a pan on the oven on medium-high heat and add some olive oil or butter, I find Olive oil works the best Prepare broccoli, either add them too boiling water or put them in a wok Add the potatoes to a pot and start boiling them Dry off your Salmon pieces and sprinkle Sitronpepper over them, cover both sides Add the salmon too the hot pan Add some Soy sauce in the pan when the Salmon is done Reduce the heat to low-medium Add Creme Fraiche too the pan and mix it with the boiling Soy sauce Cook it for roughly ~5 minutes, don&amp;rsquo;t have too high heat or the Creme Fraiche will seperate Salmon and Pasta What you need:</description>
+      <content:encoded><![CDATA[<p>These are some of the recipes I use with Salmon. They are focused on being easy and fast to cook.</p>
+<h3 id="salmon-potatoes-creme-fraiche-and-broccoli">Salmon, Potatoes, Creme Fraiche and Broccoli</h3>
+<p>This is a personal favorite that I use a lot, its fast and simple to cook</p>
+<p><strong>What you need</strong></p>
+<ul>
+<li>Salmon</li>
+<li>Sitronpepper</li>
+<li>Broccoli (frozen works)</li>
+<li>Creme Craiche</li>
+<li>Potatoes (Or rice)</li>
+<li>Soy Sauce</li>
+</ul>
+<h4 id="how-to">How to</h4>
+<ol>
+<li>Place a pan on the oven on medium-high heat and add some olive oil or butter, I find Olive oil works the best</li>
+<li><em>Prepare broccoli, either add them too boiling water or put them in a wok</em></li>
+<li>Add the potatoes to a pot and start boiling them</li>
+<li>Dry off your Salmon pieces and sprinkle Sitronpepper over them, cover both sides</li>
+<li>Add the salmon too the hot pan</li>
+<li>Add some Soy sauce in the pan when the Salmon is done</li>
+<li>Reduce the heat to low-medium</li>
+<li>Add Creme Fraiche too the pan and mix it with the boiling Soy sauce</li>
+<li>Cook it for roughly ~5 minutes, don&rsquo;t have too high heat or the Creme Fraiche will seperate</li>
+</ol>
+<h3 id="salmon-and-pasta">Salmon and Pasta</h3>
+<p>What you need:</p>
+<ul>
+<li>Pasta, tagliatelle 300g</li>
+<li>250g green peas</li>
+<li>2dl Creme Fraiche</li>
+<li>2 pieces of Salmon</li>
+<li>Sitronskall</li>
+<li>Olive oil</li>
+<li>Salt and pepper to taste</li>
+<li>Fiskekrydder/sitronpepper</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>Honey Marinades</title>
       <link>http://localhost:1313/posts/honey-marinades/</link>
