@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/no/</loc>
+    <lastmod>2024-07-03T15:27:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-NO"
+                href="http://localhost:1313/no/"
+                />
+  </url><url>
     <loc>http://localhost:1313/no/posts/</loc>
     <lastmod>2024-07-03T14:42:33+02:00</lastmod>
     <xhtml:link
@@ -13,19 +26,6 @@
                 rel="alternate"
                 hreflang="en-NO"
                 href="http://localhost:1313/no/posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/no/</loc>
-    <lastmod>2024-07-03T15:27:05+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-NO"
-                href="http://localhost:1313/no/"
                 />
   </url><url>
     <loc>http://localhost:1313/no/about/</loc>

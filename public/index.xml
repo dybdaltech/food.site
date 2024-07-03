@@ -9,8 +9,18 @@
     <managingEditor>site@dybdaltech.net (Dybdaltech)</managingEditor>
     <webMaster>site@dybdaltech.net (Dybdaltech)</webMaster>
     <copyright>Dybdaltech (CC BY 4.0)</copyright>
-    <lastBuildDate>Wed, 03 Jul 2024 18:18:24 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 22:32:14 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chickens</title>
+      <link>http://localhost:1313/posts/chickens/</link>
+      <pubDate>Wed, 03 Jul 2024 22:32:14 +0200</pubDate><author>site@dybdaltech.net (Dybdaltech)</author>
+      <guid>http://localhost:1313/posts/chickens/</guid>
+      <description>Chicken recipes Here I will post all my chicken recipes</description>
+      <content:encoded><![CDATA[<h3 id="chicken-recipes">Chicken recipes</h3>
+<p>Here I will post all my chicken recipes</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Salmon-recipes</title>
       <link>http://localhost:1313/posts/salmon-recipes/</link>

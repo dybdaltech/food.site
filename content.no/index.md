@@ -1,8 +1,8 @@
-+++
-title = 'index'
-date = 2024-07-03T15:27:05+02:00
-draft = false
-+++
+---
+title: "Index"
+menu: "main"
+weight: 1
+---
 
 #### Corner of the internet
 Velkommen til denne lille kroken av internett, en personlig side jeg laget for å dele mine matlagingsideer, oppskrifter jeg har kommet over og erfaringer (begrenset)!
