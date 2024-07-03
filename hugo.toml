@@ -27,14 +27,14 @@ enableRobotsTXT = true
     title = "Food"
     languageName = "en-US 🇺🇸"
     LanguageCode = "en-US"
-    contentDir = "content/en"
+    contentDir = "content"
     [languages.en.params]
       madeWith = "Theme [Bear Cub](https://github.com/clente/hugo-bearcub)"
   [languages.no]
     title = "Food"
     languageName = "en-NO no"
     LanguageCode = "en-NO"
-    contentDir = "content/no"
+    contentDir = "content.no"
     [languages.no.params]
       madeWith = "Theme [Bear Cub](https://github.com/clente/hugo-bearcub)"
 
